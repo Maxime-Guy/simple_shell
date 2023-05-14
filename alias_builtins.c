@@ -1,9 +1,3 @@
-/*
- * File: builtin.c
- * Auth: Joseph Mahiuha
- *       Lewis Mwaura
- */
-
 #include "shell.h"
 
 int shellby_alias(char **args, char __attribute__((__unused__)) **front);
